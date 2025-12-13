@@ -3,8 +3,10 @@ title = "Durebirot"
 theme = "nederburg"
 languageCode = "de-ch"
 preserveTaxonomyNames = true
-paginate = 10
 canonifyURLs = true
+
+[pagination]
+pagerSize = 10
 
 [taxonomies]
 author = "authors"
