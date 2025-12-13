@@ -3,7 +3,7 @@ title = "The competition"
 author = "colab"
 categories = ["vietnam"]
 date = "2018-05-05"
-expirydate = "2018-05-09T17:35"
+expirydate = "2018-05-09T17:35:00Z"
 image = "post/vietnam/competition/dsc_6914.jpg"
 +++
 
