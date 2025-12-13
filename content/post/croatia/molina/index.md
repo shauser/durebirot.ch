@@ -7,6 +7,7 @@ image = "post/croatia/molina/IMG_20190520_175559.jpg"
 +++
 
 The hotel I stayed in for the night continued to surprise me with the breakfast buffet. It wasn't huge size wise, but the selection on display was. It had about 8 different local cold cuts, a sizable selection of cheese as well as a separate buffet where you could build your own muesli. The fried egg they offered was as delicious as it was gorgeous looking.
+<!--more-->
 
 {{%map%}}
 

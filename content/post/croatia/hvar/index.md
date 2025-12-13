@@ -7,6 +7,7 @@ image = "post/croatia/hvar/Img01.jpg"
 +++
 
 30 to 40°C. That's what everybody told me to expect here. Instead I got yet another day with temperatures in the 16 to 22°C range and rain. It started shortly after I left Pag island and didn't stop yet. The weather forecast is also bad until at least Friday, so I'm looking forward to my next stays...
+<!--more-->
 
 {{%picture "Img03.jpg" "View from Pag to the mainland, right at the crossing"%}}
 

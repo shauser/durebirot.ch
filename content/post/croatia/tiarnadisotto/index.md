@@ -9,6 +9,7 @@ image = "post/croatia/tiarnadisotto/Title.jpg"
 ~~First of all, sorry to anyone who reads this blog because of the pictures I normally post. There aren't going to be any today. Even though the weather was finally a bit nicer and I took some pictures, I can't post them right now. The reason is that I am still with my friend and we're currently sitting up in the mountains, with about 30 minutes of battery left. I just have the time and connectivity to post this post with a single title picture.~~ **Update: Added the pictures from yesterday.**
 
 But let me start in the morning...
+<!--more-->
 
 We started the day with a quick breakfast consisting of some of the left over omlettes from yesterday evening and a coffee. After this we went to the nearby village to go grocery shopping. He has a nice little house in the nearby mountains where he invited some of his friends for dinner tonight.
 

@@ -7,6 +7,7 @@ image = "post/croatia/bovec/Img02.jpg"
 +++
 
 My body refuses to work if I have too little sleep. I think that's what we call "aging". I went to bed around midnight yesterday, the others were still up until at least 3, probably 4 AM. But it was definitely the right choice, since my route for today took around 5 hours according to google, or 6 hours with stops for pictures and the road conditions.
+<!--more-->
 
 {{%map%}}
 

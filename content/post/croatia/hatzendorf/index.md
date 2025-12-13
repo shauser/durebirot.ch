@@ -7,6 +7,7 @@ image = "post/croatia/hatzendorf/Img03.jpg"
 +++
 
 So this is going to be a real short post since it’s already close to midnight and I’m really tired. I left the place where I stayed for the night a bit past 10 after enjoying the view one last time...
+<!--more-->
 
 {{%picture "Img01.jpg" "View at shortly past 6 in the morning - sadly I missed the sunrise"%}}
 

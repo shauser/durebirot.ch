@@ -7,6 +7,7 @@ image = "post/croatia/ljubljana/Img09.jpg"
 +++
 
 The destination for today was Ljubljana, the capitol of Slovenia. The planned itinerary would have been over Austria and down the Jezersko pass. While talking yesterday evening, a local recommended to do the Vršič pass instead though, which is the highest pass in all of Slovenia. So I took a right turn right when leaving the village and entered the fairy land...
+<!--more-->
 
 {{%picture "Img01.jpg" "One of the rivers they do rafting on"%}}
 

@@ -7,6 +7,7 @@ image = "post/croatia/krka/Img08.jpg"
 +++
 
 So, what's the bright side of bad weather you might ask? Well, it's obviously going to Krka national park. That's exactly what my next destination was. But before I got there, I took a small detour north towards Rama lake. A huge lake with the peninsula Šćit in the middle, featuring a monastery.
+<!--more-->
 
 {{%picture "Img03.jpg" "The Rama lake"%}}
 
