@@ -30,3 +30,7 @@ tag = "tags"
 
   [params.social]
   email = "contact@durebirot.ch"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
