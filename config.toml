@@ -1,0 +1,32 @@
+baseurl = "https://durebirot.ch/"
+title = "Durebirot"
+theme = "nederburg"
+languageCode = "de-ch"
+preserveTaxonomyNames = true
+paginate = 10
+canonifyURLs = true
+
+[taxonomies]
+author = "authors"
+category = "categories"
+tag = "tags"
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe=true
+
+[params]
+  slogan = ""
+  description = "The world by motorcycle"
+  copyright = "&copy; 2018-2019 Ste & Flo"
+
+  [[params.navlinks]]
+  name = "Home"
+  url = ""
+
+#  [[params.navlinks]]
+#  name = "About"
+#  url = "about/"
+
+  [params.social]
+  email = "contact@durebirot.ch"

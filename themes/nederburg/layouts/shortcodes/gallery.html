@@ -1,0 +1,11 @@
+<div class="gallery">
+{{- range $img := $.Page.Resources.ByType "image" -}}
+    {{- if ne ($.Page.Scratch.Get ($img.RelPermalink | lower)) "true" -}}
+    {{- $thumb := $img.Fill "80x80" -}}
+    {{- $title := $img.Title -}}
+    <a href="{{ $img.RelPermalink }}" title="{{ $title }}">
+        <img src="{{ $thumb.RelPermalink }}" class="size-auto" alt="{{ $title }}">
+    </a>
+    {{- end -}}
+{{- end -}}
+</div>

@@ -1,0 +1,16 @@
+{{- if isset $.Site.Data.authors .Params.author -}}
+{{- $author := (index $.Site.Data.authors .Params.author) -}}
+<div class="author-meta">
+  <div class="author">
+    <img alt="{{ $author.name }}" src="https://www.gravatar.com/avatar/{{ md5 $author.email }}?s=100&amp;d=identicon" class="avatar avatar-72 photo" height="72" width="72">
+    <span>Written by: {{ $author.name }}</span>
+  </div>
+  {{- if (isset $author "bio") -}}
+  <div class="bio">
+    {{ range $author.bio }}
+    <p>{{ . | safeHTML }}</p>
+    {{ end }}
+  </div>
+  {{- end -}}
+</div>
+{{- end -}}

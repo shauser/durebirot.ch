@@ -1,0 +1,10 @@
+{{- $orig := .Page.Resources.GetMatch (printf "%s*" (.Get 0)) -}}
+{{- $title := or (.Get 1) $orig.Title -}}
+{{- $thumbnail := $orig.Resize "640x" -}}
+{{- $.Page.Scratch.Set ($orig.RelPermalink | lower) "true" }}
+<figure>
+    <a href="{{ $orig.RelPermalink }}" title="{{ $title }}">
+        <img src="{{ $thumbnail.RelPermalink }}" class="size-auto" alt="{{ $title }}">
+    </a>
+    <figcaption>{{ $title }}</figcaption>
+</figure>

@@ -1,0 +1,20 @@
+<div class="archive-header">
+	<h1>Author: {{ .Title }}</h1>
+</div>
+
+<h1 class="screen-reader-text">Posts</h1>
+<div id="loop-container" class="loop-container">
+	{{ range $index, $element := (where .Data.Pages "Section" "post") }}
+		{{ if and (isset .Params "image") .Params.image }}
+		{{ if eq (mod $index 2) 0 }}
+		<div class="post type-post status-publish format-standard has-post-thumbnail hentry category-design tag-memories tag-normal-post tag-standard-2 excerpt zoom full-without-featured odd excerpt">
+		{{ else }}
+		<div class="post type-post status-publish format-standard has-post-thumbnail hentry category-design tag-memories tag-normal-post tag-standard-2 excerpt zoom full-without-featured even excerpt">
+		{{ end }}
+		{{ else }}
+		<div class="post type-post status-publish format-standard hentry category-standard category-travel excerpt zoom full-without-featured odd excerpt">
+		{{ end }}
+	    {{ partial "excerpt" $element }}
+		</div>
+	{{ end }}
+</div>
