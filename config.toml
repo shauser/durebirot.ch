@@ -1,4 +1,4 @@
-baseurl = "https://durebirot.ch/"
+baseurl = "http://shauser.github.io/durebirot.ch/"
 title = "Durebirot"
 theme = "nederburg"
 languageCode = "de-ch"
