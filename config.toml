@@ -1,4 +1,4 @@
-baseurl = "https://shauser.github.io/durebirot.ch/"
+baseurl = "https://www.durebirot.ch/"
 title = "Durebirot"
 theme = "nederburg"
 languageCode = "de-ch"
@@ -20,7 +20,7 @@ tag = "tags"
 [params]
   slogan = ""
   description = "The world by motorcycle"
-  copyright = "&copy; 2018-2019 Ste & Flo"
+  copyright = "&copy; 2018-2026 Ste & Flo"
 
   [[params.navlinks]]
   name = "Home"
